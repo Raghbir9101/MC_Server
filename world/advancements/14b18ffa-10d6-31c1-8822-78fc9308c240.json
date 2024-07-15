@@ -604,7 +604,8 @@
       "cooked_chicken": "2024-07-13 17:20:35 +0000",
       "cooked_mutton": "2024-07-13 17:33:50 +0000",
       "potato": "2024-07-13 21:17:32 +0000",
-      "cooked_beef": "2024-07-13 19:44:45 +0000"
+      "cooked_beef": "2024-07-13 19:44:45 +0000",
+      "carrot": "2024-07-15 18:58:01 +0000"
     },
     "done": false
   },
@@ -1376,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-07-15 18:51:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-07-15 17:54:12 +0000"
@@ -1385,6 +1392,18 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-07-15 17:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-07-15 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-07-15 18:51:44 +0000"
     },
     "done": true
   },
@@ -1412,6 +1431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-07-15 18:51:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-07-15 17:50:07 +0000"
@@ -1421,6 +1446,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2024-07-15 17:50:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-07-15 18:51:44 +0000"
     },
     "done": true
   },
