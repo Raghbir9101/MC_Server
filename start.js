@@ -90,7 +90,7 @@ function gitOperations() {
 // Main function to orchestrate the steps
 function main() {
   // Schedule git operations at 10-second intervals
-  setInterval(gitOperations, 10000);
+  setInterval(gitOperations, 60000);
 }
 
 // Start the process
