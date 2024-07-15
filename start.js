@@ -1,76 +1,22 @@
 const { exec } = require('child_process');
-const path = require('path');
 
-// Function to execute shell commands
+// Function to execute a command
 function executeCommand(command, callback) {
   exec(command, (error, stdout, stderr) => {
     if (error) {
-      console.error(`Error: ${error.message}`);
+      console.error(`Error executing command: ${command}`, error);
       return;
     }
     if (stderr) {
-      console.error(`Stderr: ${stderr}`);
-      return;
+      console.error(`Error output for command: ${command}`, stderr);
     }
-    console.log(`Stdout: ${stdout}`);
-    if (callback) callback();
-  });
-}
-
-// Function to check if sudo is required
-function checkSudo(callback) {
-  exec('which sudo', (error, stdout, stderr) => {
-    if (error || stderr) {
-      console.log('sudo not found, running commands as root...');
-      callback('');
-    } else {
-      console.log('sudo found, using sudo for commands...');
-      callback('sudo ');
-    }
-  });
-}
-
-// Function to install the latest Java
-function installJava(sudoCmd, callback) {
-  console.log('Updating package list...');
-  const updateCommand = `${sudoCmd}apt update`;
-
-  executeCommand(updateCommand, () => {
-    console.log('Adding Java PPA...');
-    const addPPACommand = `${sudoCmd}add-apt-repository -y ppa:linuxuprising/java`;
-
-    executeCommand(addPPACommand, () => {
-      console.log('Updating package list again...');
-      executeCommand(updateCommand, () => {
-        console.log('Accepting Oracle license...');
-        const acceptLicenseCommand = `echo oracle-java18-installer shared/accepted-oracle-license-v1-2 select true | ${sudoCmd}/usr/bin/debconf-set-selections`;
-
-        executeCommand(acceptLicenseCommand, () => {
-          console.log('Installing the latest Java...');
-          const javaInstallCommand = `${sudoCmd}apt install -y oracle-java18-installer`;
-
-          executeCommand(javaInstallCommand, () => {
-            console.log('Java installed successfully.');
-            callback();
-          });
-        });
-      });
-    });
-  });
-}
-
-// Function to run the server command
-function runServer() {
-  const serverCommand = 'java -Xmx1G -Xms1G -jar server.jar nogui';
-  console.log(`Running server command: ${serverCommand}`);
-
-  executeCommand(serverCommand, () => {
-    console.log('Server command executed successfully.');
+    console.log(`Output for command: ${command}`, stdout);
+    callback();
   });
 }
 
 // Function to perform git operations
-function gitOperations() {
+function gitOperations(callback) {
   const gitAddCommand = 'git add .';
   const gitCommitCommand = 'git commit -m "new code"';
   const gitPushCommand = 'git push --force';
@@ -82,6 +28,9 @@ function gitOperations() {
       console.log('Running git push...');
       executeCommand(gitPushCommand, () => {
         console.log('Git operations completed.');
+        if (callback) {
+          callback();
+        }
       });
     });
   });
@@ -89,10 +38,12 @@ function gitOperations() {
 
 // Main function to orchestrate the steps
 function main() {
-  // Schedule git operations at 10-second intervals
-  setInterval(gitOperations, 60000);
-  gitOperations()
-}
+  function scheduleNextGitOperation() {
+    setTimeout(() => {
+      gitOperations(scheduleNextGitOperation);
+    }, 60000);
+  }
 
-// Start the process
-main();
+  gitOperations(scheduleNextGitOperation);
+}
+main() 
