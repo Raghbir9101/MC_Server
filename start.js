@@ -69,11 +69,28 @@ function runServer() {
   });
 }
 
+// Function to perform git operations
+function gitOperations() {
+  const gitAddCommand = 'git add .';
+  const gitCommitCommand = 'git commit -m "new code"';
+  const gitPushCommand = 'git push';
+
+  console.log('Running git add...');
+  executeCommand(gitAddCommand, () => {
+    console.log('Running git commit...');
+    executeCommand(gitCommitCommand, () => {
+      console.log('Running git push...');
+      executeCommand(gitPushCommand, () => {
+        console.log('Git operations completed.');
+      });
+    });
+  });
+}
+
 // Main function to orchestrate the steps
 function main() {
-  checkSudo((sudoCmd) => {
-    installJava(sudoCmd, runServer);
-  });
+  // Schedule git operations at 10-second intervals
+  setInterval(gitOperations, 10000);
 }
 
 // Start the process

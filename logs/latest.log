@@ -95,3 +95,83 @@
 [13:09:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
 [13:09:23] [Server thread/INFO]: Max TNT Explosions: 100
 [13:09:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:09:32] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:09:32] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:09:32] [Server thread/INFO]: View Distance: 10
+[13:09:32] [Server thread/INFO]: Simulation Distance: 10
+[13:09:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:09:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:09:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:09:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:09:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:09:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:09:32] [Server thread/INFO]: Mob Spawn Range: 6
+[13:09:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[13:09:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[13:09:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[13:09:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[13:09:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:09:32] [Server thread/INFO]: Max TNT Explosions: 100
+[13:09:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:09:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:09:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:09:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:09:33] [Server thread/INFO]: Time elapsed: 1313 ms
+[13:09:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:09:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:09:33] [Server thread/INFO]: Time elapsed: 354 ms
+[13:09:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:09:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:09:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:09:35] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[13:09:35] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[13:09:35] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[13:09:36] [Server thread/INFO]: Time elapsed: 2152 ms
+[13:09:36] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.1
+[13:09:36] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
+[13:09:36] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[13:09:37] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.1
+[13:09:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:09:37] [Server thread/INFO]: Done (14.877s)! For help, type "help"
+[13:09:37] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[13:09:40] [Thread-8/INFO]: secret key not set, generate claim code: 0da777eb01c91a3b
+[13:09:40] [Thread-8/INFO]: trying to exchange claim code for secret
+[13:09:42] [Thread-8/INFO]: failed to exchange, to claim visit: https://playit.gg/mc/0da777eb01c91a3b
+[13:09:45] [Thread-8/INFO]: trying to exchange claim code for secret
+[13:09:45] [Thread-8/INFO]: failed to exchange, to claim visit: https://playit.gg/mc/0da777eb01c91a3b
+[13:09:48] [Thread-8/INFO]: trying to exchange claim code for secret
+[13:09:49] [Thread-8/INFO]: failed to exchange, to claim visit: https://playit.gg/mc/0da777eb01c91a3b
+[13:09:52] [Thread-8/INFO]: trying to exchange claim code for secret
+[13:09:53] [Thread-8/INFO]: failed to exchange, to claim visit: https://playit.gg/mc/0da777eb01c91a3b
+[13:09:56] [Thread-8/INFO]: trying to exchange claim code for secret
+[13:09:56] [Thread-8/INFO]: failed to exchange, to claim visit: https://playit.gg/mc/0da777eb01c91a3b
+[13:09:59] [Thread-8/INFO]: trying to exchange claim code for secret
+[13:10:00] [Thread-8/INFO]: check secret
+[13:10:01] [Thread-8/INFO]: create new minecraft java tunnel
+[13:10:12] [Thread-8/INFO]: found minecraft java tunnel: hours-contacts.joinmc.link
+[13:10:12] [Thread-8/INFO]: keys and tunnel setup
+[13:10:12] [Thread-8/INFO]: [21m[4mplayit.gg:[m [0;31;1mWARNING: [memail associated with playit.gg account is not verified[m
+[13:10:12] [Thread-8/INFO]: [21m[4mplayit.gg:[m tunnel setup[m
+[13:10:12] [Thread-8/INFO]: [21m[4mplayit.gg:[m hours-contacts.joinmc.link[m
+[13:10:12] [Thread-8/WARN]: Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[13:10:13] [Thread-8/INFO]: request queued, waiting 1 second before resend
+[13:10:14] [Thread-8/INFO]: request queued, waiting 1 second before resend
+[13:14:15] [Thread-8/INFO]: send keep alive
