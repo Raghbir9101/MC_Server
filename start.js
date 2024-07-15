@@ -8,7 +8,7 @@ function executeCommand(command, callback) {
       return;
     }
     if (stderr) {
-      console.error(`Error output for command: ${command}`, stderr);
+      console.warn(`Warning for command: ${command}`, stderr);
     }
     console.log(`Output for command: ${command}`, stdout);
     callback();
@@ -46,4 +46,6 @@ function main() {
 
   gitOperations(scheduleNextGitOperation);
 }
-main() 
+
+// Start the process
+main();
