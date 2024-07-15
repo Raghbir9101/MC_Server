@@ -15,6 +15,14 @@ function executeCommand(command, callback) {
   });
 }
 
+// Function to check if there are changes to commit
+function hasChanges(callback) {
+  const gitDiffCommand = 'git diff --cached --exit-code';
+  exec(gitDiffCommand, (error) => {
+    callback(error ? true : false);
+  });
+}
+
 // Function to perform git operations
 function gitOperations(callback) {
   const gitAddCommand = 'git add .';
@@ -23,15 +31,24 @@ function gitOperations(callback) {
 
   console.log('Running git add...');
   executeCommand(gitAddCommand, () => {
-    console.log('Running git commit...');
-    executeCommand(gitCommitCommand, () => {
-      console.log('Running git push...');
-      executeCommand(gitPushCommand, () => {
-        console.log('Git operations completed.');
+    hasChanges((changesExist) => {
+      if (changesExist) {
+        console.log('Running git commit...');
+        executeCommand(gitCommitCommand, () => {
+          console.log('Running git push...');
+          executeCommand(gitPushCommand, () => {
+            console.log('Git operations completed.');
+            if (callback) {
+              callback();
+            }
+          });
+        });
+      } else {
+        console.log('No changes to commit.');
         if (callback) {
           callback();
         }
-      });
+      }
     });
   });
 }
