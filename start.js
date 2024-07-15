@@ -73,7 +73,7 @@ function runServer() {
 function gitOperations() {
   const gitAddCommand = 'git add .';
   const gitCommitCommand = 'git commit -m "new code"';
-  const gitPushCommand = 'git push';
+  const gitPushCommand = 'git push --force';
 
   console.log('Running git add...');
   executeCommand(gitAddCommand, () => {
@@ -91,6 +91,7 @@ function gitOperations() {
 function main() {
   // Schedule git operations at 10-second intervals
   setInterval(gitOperations, 60000);
+  gitOperations()
 }
 
 // Start the process
