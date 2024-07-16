@@ -847,3 +847,31 @@ java.net.SocketException: Connection reset
 [20:37:49] [User Authenticator #11/INFO]: UUID of player Almighty is 14b18ffa-10d6-31c1-8822-78fc9308c240
 [20:37:50] [Server thread/INFO]: Almighty joined the game
 [20:37:50] [Server thread/INFO]: Almighty[/127.0.0.1:52628] logged in with entity id 82599 at ([world]-113.69999998807907, 60.0, 822.3013634184122)
+[20:40:35] [Thread-8/INFO]: send keep alive
+[20:44:35] [Thread-8/INFO]: send keep alive
+[20:48:35] [Thread-8/INFO]: send keep alive
+[20:52:36] [Thread-8/INFO]: send keep alive
+[20:53:01] [Server thread/INFO]: Villager EntityVillager['Villager'/82638, l='ServerLevel[world]', x=-119.34, y=63.00, z=803.62] died, message: 'Villager was slain by Almighty'
+[20:54:39] [nioEventLoopGroup-2-1/WARN]: An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: Connection timed out
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:47) ~[?:?]
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:340) ~[?:?]
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:294) ~[?:?]
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:269) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:425) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[20:55:55] [Server thread/INFO]: Villager EntityVillager['Mason'/82613, l='ServerLevel[world]', x=-83.97, y=62.42, z=787.71] died, message: 'Mason tried to swim in lava'
+[20:56:36] [Thread-8/INFO]: send keep alive
+[21:00:36] [Thread-8/INFO]: send keep alive
