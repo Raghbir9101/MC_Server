@@ -807,3 +807,43 @@ java.net.SocketException: Connection reset
 [19:35:26] [Server thread/INFO]: Almighty has made the advancement [What a Deal!]
 [19:36:03] [Thread-8/INFO]: send keep alive
 [19:40:03] [Thread-8/INFO]: send keep alive
+[19:44:03] [Thread-8/INFO]: send keep alive
+[19:45:32] [Server thread/INFO]: Almighty was slain by Zombie Villager
+[19:48:04] [Thread-8/INFO]: send keep alive
+[19:52:04] [Thread-8/INFO]: send keep alive
+[19:56:04] [Thread-8/INFO]: send keep alive
+[20:00:05] [Thread-8/INFO]: send keep alive
+[20:04:05] [Thread-8/INFO]: send keep alive
+[20:08:05] [Thread-8/INFO]: send keep alive
+[20:12:06] [Thread-8/INFO]: send keep alive
+[20:16:06] [Thread-8/INFO]: send keep alive
+[20:17:11] [Server thread/INFO]: Villager EntityVillager['Villager'/74063, l='ServerLevel[world]', x=-115.15, y=61.02, z=818.87] died, message: 'Villager drowned'
+[20:17:13] [Server thread/INFO]: Villager EntityVillager['Villager'/76475, l='ServerLevel[world]', x=-115.15, y=61.02, z=818.90] died, message: 'Villager drowned'
+[20:17:15] [Server thread/INFO]: Villager EntityVillager['Villager'/75036, l='ServerLevel[world]', x=-111.52, y=61.02, z=817.18] died, message: 'Villager was impaled by Drowned'
+[20:18:27] [Server thread/INFO]: Villager EntityVillager['Villager'/72883, l='ServerLevel[world]', x=-114.66, y=59.05, z=820.36] died, message: 'Villager drowned'
+[20:18:28] [Server thread/INFO]: Villager EntityVillager['Villager'/77912, l='ServerLevel[world]', x=-114.04, y=58.02, z=829.85] died, message: 'Villager drowned'
+[20:18:28] [Server thread/INFO]: Villager EntityVillager['Villager'/71445, l='ServerLevel[world]', x=-115.67, y=60.05, z=826.92] died, message: 'Villager drowned'
+[20:20:07] [Thread-8/INFO]: send keep alive
+[20:24:07] [Thread-8/INFO]: send keep alive
+[20:28:07] [Thread-8/INFO]: send keep alive
+[20:32:08] [Thread-8/INFO]: send keep alive
+[20:33:42] [Server thread/INFO]: Almighty drowned
+[20:34:41] [Server thread/INFO]: Almighty drowned while trying to escape Drowned
+[20:36:08] [Thread-8/INFO]: send keep alive
+[20:36:20] [Thread-8/INFO]: send keep alive
+[20:36:32] [Thread-8/INFO]: send keep alive
+[20:37:44] [Server thread/INFO]: Almighty lost connection: Timed out
+[20:37:44] [Server thread/INFO]: Almighty left the game
+[20:37:49] [Thread-8/INFO]: got new client: NewClient{connectAddr=209.25.143.194:15723, peerAddr=202.142.91.181:43379, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -47, 25, -113, -62, 61, 107, -54, -114, 91, -75, -87, 115, -104, 125, 73, 40, -85, 8, 102, -106, -38, 29, 0, 0, 0, 0, 0, 10, 50, 24, 0, 0, 0, 0, 0, 52, 71, -63, 52, 40, -85, 8, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -113, -51, 63, -85, -73, -36, 75, 69, 71, 63, -117, -101, -62, 108, 98, -104], tunnelServerId=1, dataCenterId=28}
+[20:37:49] [Thread-8/INFO]: starting tcp tunnel for client
+[20:37:49] [Thread-8/INFO]: start connection to /209.25.143.2:43784 to claim client
+[20:37:49] [nioEventLoopGroup-2-3/INFO]: connected to tunnel server, sending claim token
+[20:37:49] [nioEventLoopGroup-2-3/INFO]: claim token sent
+[20:37:49] [nioEventLoopGroup-2-3/INFO]: connection to tunnel server has been established
+[20:37:49] [nioEventLoopGroup-2-3/INFO]: Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[20:37:49] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
+[20:37:49] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
+[20:37:49] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[20:37:49] [User Authenticator #11/INFO]: UUID of player Almighty is 14b18ffa-10d6-31c1-8822-78fc9308c240
+[20:37:50] [Server thread/INFO]: Almighty joined the game
+[20:37:50] [Server thread/INFO]: Almighty[/127.0.0.1:52628] logged in with entity id 82599 at ([world]-113.69999998807907, 60.0, 822.3013634184122)
