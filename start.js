@@ -21,15 +21,20 @@ function executeCommand(command, callback) {
 
 // Function to check if there are changes to commit
 function hasChanges(callback) {
-  const gitDiffCommand = 'git diff --cached --exit-code';
+  try{
+    const gitDiffCommand = 'git diff --cached --exit-code';
   exec(gitDiffCommand, (error) => {
     callback(error ? true : false);
   });
+  }catch(err){
+    console.log(err)
+  }
 }
 
 // Function to perform git operations
 function gitOperations(callback) {
-  const gitAddCommand = 'git add .';
+  try {
+    const gitAddCommand = 'git add .';
   const gitCommitCommand = 'git commit -m "new code"';
   const gitPushCommand = 'git push --force';
 
@@ -55,17 +60,28 @@ function gitOperations(callback) {
       }
     });
   });
+  } catch (error) {
+    console.log(error)
+  }
 }
 
 // Main function to orchestrate the steps
 function main() {
-  function scheduleNextGitOperation() {
-    setTimeout(() => {
-      gitOperations(scheduleNextGitOperation);
-    }, 60000);
+  try {
+    function scheduleNextGitOperation() {
+      try {
+        setTimeout(() => {
+          gitOperations(scheduleNextGitOperation);
+        }, 60000);
+      } catch (error) {
+        console.log(error)
+      }
+    }
+  
+    gitOperations(scheduleNextGitOperation);
+  } catch (error) {
+    console.log(error)
   }
-
-  gitOperations(scheduleNextGitOperation);
 }
 
 // Start the process
