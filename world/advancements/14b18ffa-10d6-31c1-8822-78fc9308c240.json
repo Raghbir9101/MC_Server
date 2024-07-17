@@ -908,6 +908,7 @@
     "criteria": {
       "minecraft:cow": "2024-07-13 21:29:47 +0000",
       "minecraft:chicken": "2024-07-13 22:24:37 +0000",
+      "minecraft:pig": "2024-07-17 20:34:42 +0000",
       "minecraft:sheep": "2024-07-13 18:27:32 +0000"
     },
     "done": false
@@ -2208,9 +2209,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-07-17 20:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-07-17 20:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2024-07-17 20:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-07-17 20:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-07-17 20:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2024-07-17 20:35:22 +0000"
     },
     "done": true
   },

@@ -19,6 +19,13 @@ function executeCommand(command, callback) {
     }
 }
 
+setInterval(()=>{
+    executeCommand("node start.js", () => {
+        console.log('Git operations completed.');
+    });
+},60000)
+
+
 executeCommand("node start.js", () => {
     console.log('Git operations completed.');
 });
