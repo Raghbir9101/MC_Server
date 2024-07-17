@@ -1202,6 +1202,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2024-07-14 08:23:10 +0000",
+      "minecraft:pig": "2024-07-17 15:47:44 +0000",
       "minecraft:sheep": "2024-07-13 19:03:51 +0000"
     },
     "done": false
@@ -2681,6 +2682,18 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2024-07-17 14:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-07-17 15:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-07-17 15:54:43 +0000"
     },
     "done": true
   },

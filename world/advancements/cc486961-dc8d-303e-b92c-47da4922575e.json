@@ -542,6 +542,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-07-13 17:26:19 +0000",
+      "mutton": "2024-07-17 15:55:55 +0000",
       "golden_apple": "2024-07-13 17:43:23 +0000",
       "bread": "2024-07-13 19:37:32 +0000",
       "cooked_chicken": "2024-07-13 16:51:15 +0000",
@@ -893,7 +894,8 @@
       "minecraft:spider": "2024-07-13 17:18:05 +0000",
       "minecraft:zombie": "2024-07-13 17:19:31 +0000",
       "minecraft:creeper": "2024-07-13 18:16:58 +0000",
-      "minecraft:drowned": "2024-07-13 16:45:30 +0000"
+      "minecraft:drowned": "2024-07-13 16:45:30 +0000",
+      "minecraft:zombie_villager": "2024-07-17 15:27:47 +0000"
     },
     "done": false
   },
@@ -2540,6 +2542,42 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-07-17 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2024-07-17 15:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-07-17 15:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-07-17 15:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-07-17 15:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-07-17 15:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-07-17 15:41:13 +0000"
     },
     "done": true
   },
