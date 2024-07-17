@@ -186,3 +186,4 @@
 [18:06:50] [Server thread/INFO]: Raghbir joined the game
 [18:06:50] [Server thread/INFO]: Raghbir[/127.0.0.1:50070] logged in with entity id 29 at ([world]-122.83368421112745, 70.0, 656.5256057221528)
 [18:06:55] [Server thread/WARN]: UUID of added entity already exists: EntityBee['Bee'/410, l='ServerLevel[world]', x=-288.11, y=70.02, z=581.16]
+[18:08:13] [Thread-1/INFO]: Stopping server
