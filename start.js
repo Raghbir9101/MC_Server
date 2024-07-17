@@ -68,17 +68,17 @@ function gitOperations(callback) {
 // Main function to orchestrate the steps
 function main() {
   try {
-    function scheduleNextGitOperation() {
-      try {
-        setTimeout(() => {
-          gitOperations(scheduleNextGitOperation);
-        }, 60000);
-      } catch (error) {
-        console.log(error)
-      }
-    }
+    // function scheduleNextGitOperation() {
+    //   try {
+    //     setTimeout(() => {
+    //       gitOperations(scheduleNextGitOperation);
+    //     }, 60000);
+    //   } catch (error) {
+    //     console.log(error)
+    //   }
+    // }
   
-    gitOperations(scheduleNextGitOperation);
+    gitOperations(()=>{});
   } catch (error) {
     console.log(error)
   }

@@ -229,3 +229,8 @@
 [20:31:23] [Server thread/INFO]: Villager EntityVillager['Villager'/570, l='ServerLevel[world]', x=-114.94, y=63.00, z=820.70] died, message: 'Villager was slain by Zombie Villager'
 [20:31:25] [Server thread/INFO]: Villager EntityVillager['Villager'/573, l='ServerLevel[world]', x=-113.30, y=61.00, z=821.49] died, message: 'Villager was slain by Zombie'
 [20:31:33] [Server thread/INFO]: Villager EntityVillager['Villager'/11847, l='ServerLevel[world]', x=-113.85, y=61.00, z=821.15] died, message: 'Villager was slain by Zombie'
+[20:31:46] [Server thread/INFO]: Villager EntityVillager['Villager'/9521, l='ServerLevel[world]', x=-113.15, y=61.00, z=821.15] died, message: 'Villager was slain by Zombie'
+[20:31:56] [Thread-7/INFO]: send keep alive
+[20:31:58] [Server thread/INFO]: Villager EntityVillager['Villager'/447, l='ServerLevel[world]', x=-113.30, y=61.00, z=821.49] died, message: 'Villager was slain by Zombie Villager'
+[20:33:06] [Server thread/INFO]: Villager EntityVillager['Villager'/468, l='ServerLevel[world]', x=-107.55, y=63.00, z=862.02] died, message: 'Villager was slain by Zombie Villager'
+[20:33:33] [Server thread/INFO]: Almighty burned to death

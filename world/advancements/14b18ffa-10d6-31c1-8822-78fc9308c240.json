@@ -623,7 +623,8 @@
       "minecraft:enderman": "2024-07-15 17:17:54 +0000",
       "minecraft:spider": "2024-07-13 20:31:48 +0000",
       "minecraft:zombie": "2024-07-13 17:37:56 +0000",
-      "minecraft:drowned": "2024-07-13 17:22:46 +0000"
+      "minecraft:drowned": "2024-07-13 17:22:46 +0000",
+      "minecraft:zombie_villager": "2024-07-17 20:33:28 +0000"
     },
     "done": false
   },
@@ -2204,6 +2205,18 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2024-07-17 18:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-07-17 20:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-07-17 20:29:57 +0000"
     },
     "done": true
   },
