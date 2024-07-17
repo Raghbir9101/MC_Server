@@ -26,8 +26,8 @@ function hasChanges(callback) {
   exec(gitDiffCommand, (error) => {
     callback(error ? true : false);
   });
-  }catch(err){
-    console.log(err)
+  }catch(error){
+    console.log(error)
   }
 }
 
