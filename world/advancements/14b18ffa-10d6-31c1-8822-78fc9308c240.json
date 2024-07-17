@@ -2183,9 +2183,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_brown_mushroom": "2024-07-17 18:50:30 +0000"
+      "diamond_chestplate": "2024-07-17 18:31:53 +0000"
     },
     "done": true
   },
@@ -2195,15 +2195,21 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "diamond_chestplate": "2024-07-17 18:31:53 +0000"
+      "has_brown_mushroom": "2024-07-17 18:50:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2024-07-17 18:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-07-17 20:21:59 +0000"
     },
     "done": true
   },
