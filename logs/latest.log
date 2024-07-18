@@ -209,3 +209,5 @@
 [12:27:25] [User Authenticator #2/INFO]: UUID of player Corruptor is affad427-e748-3fcf-86bc-db170613d8be
 [12:27:26] [Server thread/INFO]: Corruptor joined the game
 [12:27:26] [Server thread/INFO]: Corruptor[/127.0.0.1:34732] logged in with entity id 1024 at ([world]-81.08689507527399, 62.9375, 795.2055309573751)
+[12:28:13] [Thread-8/INFO]: send keep alive
+[12:28:15] [Thread-1/INFO]: Stopping server
