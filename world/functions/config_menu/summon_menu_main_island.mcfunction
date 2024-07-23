@@ -1,0 +1,9 @@
+# Block Display
+execute if score $player_choice skyblock.main_island_generation = $classic_generation skyblock.main_island_generation run summon block_display ~ ~ ~ {transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[-0.5f,0f,-0.5f],scale:[1f,1f,1f]},block_state:{Name:"minecraft:grass_block"},Tags:["skyblock.config_menu"]}
+execute if score $player_choice skyblock.main_island_generation = $seed_generation skyblock.main_island_generation run summon block_display ~ ~ ~ {transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[-0.5f,0f,-0.5f],scale:[1f,1f,1f]},block_state:{Name:"minecraft:mycelium"},Tags:["skyblock.config_menu"]}
+# Interation
+summon interaction ~ ~ ~ {UUID:[I;628729263,200230625,-1512102395,1173631116],response:1b,Tags:["skyblock.config_menu"]}
+# Text Displays
+summon minecraft:text_display ~-0.6 ~1 ~ {text:'{"text":"Main Island"}',Rotation:[90F,0F],Tags:["skyblock.option-name","skyblock.config_menu"]}
+execute if score $player_choice skyblock.main_island_generation = $classic_generation skyblock.main_island_generation run summon minecraft:text_display ~-0.6 ~ ~ {text:'{"text":"Classic"}',Rotation:[90F,0F],Tags:["skyblock.selected-option","skyblock.config_menu"],background:16777215,transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.72f,0.72f,0.72f]}}
+execute if score $player_choice skyblock.main_island_generation = $seed_generation skyblock.main_island_generation run summon minecraft:text_display ~-0.6 ~ ~ {text:'{"text":"Seed"}',Rotation:[90F,0F],Tags:["skyblock.selected-option","skyblock.config_menu"],background:16777215,transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0.65f,0.65f,0.65f]}}

@@ -1,0 +1,26 @@
+{
+    "display":
+    {
+        "icon": {"item": "minecraft:bamboo"},
+        "title": {"translate": "Bamboo"},
+        "description": {"translate": "Get a stack of Bamboo by fishing in a Jungle Biome."}
+    },
+    "parent": "skyblock:farmer/root",
+    "criteria":
+    {
+        "bamboo":
+        {
+	    "trigger": "minecraft:inventory_changed",
+            "conditions" : {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:bamboo"
+                        ],
+                        "count": 64
+                    }
+                ]
+            }
+        }
+    }
+}

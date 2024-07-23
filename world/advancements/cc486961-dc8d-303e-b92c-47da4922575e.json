@@ -882,6 +882,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-07-13 22:25:21 +0530",
+      "minecraft:phantom": "2024-07-14 20:35:10 +0530",
       "minecraft:enderman": "2024-07-13 22:32:17 +0530",
       "minecraft:spider": "2024-07-13 22:48:05 +0530",
       "minecraft:zombie": "2024-07-13 22:49:31 +0530",
@@ -1975,6 +1976,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-07-14 15:46:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-07-15 00:21:43 +0530"
     },
     "done": true
   },

@@ -1,0 +1,18 @@
+{
+    "display":
+    {
+        "icon":{"item": "minecraft:leather"},
+        "title": {"translate": "Animal Friends"},
+        "description": {
+            "translate": "Create a patch of grass and stand 24-48 blocks away to let passive mobs spawn. Then breed them."
+        },
+        "frame": "goal"
+    },
+    "parent": "skyblock:farmer/wheat",
+    "criteria":
+    {
+        "breed": {
+            "trigger": "minecraft:bred_animals"
+        }
+    }
+}
