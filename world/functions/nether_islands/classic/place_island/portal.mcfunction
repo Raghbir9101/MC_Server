@@ -1,1 +1,0 @@
-execute in minecraft:the_nether run place template skyblock:nether_islands/portal 6 62 6
