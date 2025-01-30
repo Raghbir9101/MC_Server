@@ -332,3 +332,10 @@
 [20:44:35] [Thread-9/INFO]: send keep alive
 [20:45:28] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty Jhaantuke
 [20:45:28] [Server thread/INFO]: [Jhaantuke: Teleported Almighty to Jhaantuke]
+[20:47:38] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty Jhaantuke
+[20:47:38] [Server thread/INFO]: [Jhaantuke: Teleported Almighty to Jhaantuke]
+[20:48:36] [Thread-9/INFO]: send keep alive
+[20:50:46] [Server thread/INFO]: Jhaantuke issued server command: /difficulty peaceful
+[20:50:46] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Peaceful]
+[20:51:12] [Server thread/INFO]: Jhaantuke issued server command: /difficulty hard
+[20:51:12] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Hard]
