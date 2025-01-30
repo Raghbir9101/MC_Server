@@ -15,3 +15,11 @@ setInterval(saveChanges, 5 * 60 * 1000);
 
 // Run immediately on start
 saveChanges();
+
+exec("java -Xmx10G -Xms10G -jar server.jar nogui", (err, stdout, stderr) => {
+    if (err) {
+        console.error(`Error adding files: ${stderr}`);
+        return;
+    }
+    console.log("Starting Minecraft server", stdout);
+})
