@@ -222,3 +222,6 @@
 [20:18:58] [Server thread/INFO]: [Jhaantuke: Teleported Almighty to Jhaantuke]
 [20:20:32] [Thread-9/INFO]: send keep alive
 [20:21:24] [Server thread/INFO]: Almighty fell out of the world
+[20:22:05] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty
+[20:22:05] [Server thread/INFO]: [Jhaantuke: Teleported Jhaantuke to Almighty]
+[20:24:33] [Thread-9/INFO]: send keep alive
