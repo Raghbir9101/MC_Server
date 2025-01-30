@@ -233,3 +233,9 @@
 [20:33:24] [Server thread/INFO]: Jhaantuke fell out of the world
 [20:36:34] [Thread-9/INFO]: send keep alive
 [20:36:35] [Server thread/INFO]: Jhaantuke fell out of the world
+[20:37:12] [Server thread/INFO]: Almighty tried to swim in lava
+[20:38:07] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty
+[20:38:07] [Server thread/INFO]: [Jhaantuke: Teleported Jhaantuke to Almighty]
+[20:39:27] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty
+[20:39:27] [Server thread/INFO]: [Jhaantuke: Teleported Jhaantuke to Almighty]
+[20:40:34] [Thread-9/INFO]: send keep alive
