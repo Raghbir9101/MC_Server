@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-30 20:48:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-01-30 20:32:46 +0000"
@@ -455,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-30 20:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-01-30 20:22:07 +0000"
@@ -472,6 +484,12 @@
       "rotten_flesh": "2025-01-30 20:30:24 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-30 20:48:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
@@ -494,6 +512,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-01-30 20:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-30 20:48:30 +0000"
     },
     "done": true
   },
