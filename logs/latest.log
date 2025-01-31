@@ -387,3 +387,6 @@
 [15:57:39] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
 [15:58:24] [Thread-7/INFO]: send keep alive
 [15:58:26] [Server thread/INFO]: Jhaantuke was shot by Skeleton
+[16:02:05] [Server thread/INFO]: Jhaantuke issued server command: /difficulty peaceful
+[16:02:05] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Peaceful]
+[16:02:25] [Thread-7/INFO]: send keep alive
