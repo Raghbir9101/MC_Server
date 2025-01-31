@@ -1070,3 +1070,5 @@
 [17:41:19] [Server thread/INFO]: Almighty was slain by Zombie
 [17:43:01] [Thread-7/INFO]: send keep alive
 [17:45:19] [Server thread/INFO]: Jhaantuke was blown up by Creeper
+[17:46:12] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty
+[17:46:12] [Server thread/INFO]: [Jhaantuke: Teleported Jhaantuke to Almighty]
