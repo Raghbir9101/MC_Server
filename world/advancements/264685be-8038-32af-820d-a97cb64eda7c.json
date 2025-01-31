@@ -541,6 +541,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-31 12:51:09 +0000",
       "minecraft:spider": "2025-01-31 12:32:10 +0000",
       "minecraft:zombie": "2025-01-30 20:29:29 +0000",
       "minecraft:creeper": "2025-01-30 20:40:43 +0000"
@@ -622,6 +623,36 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-31 12:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-31 12:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-31 12:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-31 12:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-31 12:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-31 12:45:25 +0000"
     },
     "done": true
   },
