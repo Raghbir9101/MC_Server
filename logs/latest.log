@@ -670,3 +670,5 @@
 [16:58:49] [Thread-7/INFO]: send keep alive
 [16:59:49] [Server thread/INFO]: Jhaantuke issued server command: /difficulty peaceful
 [16:59:49] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Peaceful]
+[17:01:24] [Server thread/INFO]: Jhaantuke issued server command: /difficulty hard
+[17:01:24] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Hard]
