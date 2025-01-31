@@ -413,33 +413,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
-      "has_kelp": "2025-01-30 20:32:45 +0000"
+      "has_bamboo": "2025-01-30 20:22:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
+  "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
-      "has_kelp": "2025-01-30 20:32:45 +0000"
+      "has_bamboo": "2025-01-30 20:22:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+  "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
-      "has_kelp": "2025-01-30 20:32:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-01-30 20:48:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-01-30 20:32:46 +0000"
+      "has_bamboo": "2025-01-30 20:22:07 +0000"
     },
     "done": true
   },
@@ -461,15 +449,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "has_log": "2025-01-30 20:48:29 +0000"
+      "rotten_flesh": "2025-01-30 20:30:24 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "has_bamboo": "2025-01-30 20:22:07 +0000"
+      "consumed_item": "2025-01-30 20:30:24 +0000"
     },
     "done": true
   },
@@ -479,11 +467,41 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "rotten_flesh": "2025-01-30 20:30:24 +0000"
+      "has_wheat": "2025-01-30 20:30:26 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-30 20:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-30 20:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-30 20:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-30 20:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-30 20:48:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
@@ -491,33 +509,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-01-30 20:22:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-01-30 20:30:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-01-30 20:30:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-01-30 20:22:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-30 20:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-30 20:48:48 +0000"
     },
     "done": true
   },
