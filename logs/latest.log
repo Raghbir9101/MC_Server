@@ -657,3 +657,5 @@
 [16:38:45] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Peaceful]
 [16:39:33] [Server thread/INFO]: Jhaantuke issued server command: /difficulty hard
 [16:39:33] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Hard]
+[16:40:06] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty Jhaantuke
+[16:40:06] [Server thread/INFO]: [Jhaantuke: Teleported Almighty to Jhaantuke]
