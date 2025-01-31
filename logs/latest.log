@@ -431,3 +431,6 @@
 [16:10:28] [Thread-7/INFO]: send keep alive
 [16:14:29] [Thread-7/INFO]: send keep alive
 [16:18:31] [Thread-7/INFO]: send keep alive
+[16:21:38] [Server thread/INFO]: Jhaantuke issued server command: /difficulty hard
+[16:21:38] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Hard]
+[16:22:32] [Thread-7/INFO]: send keep alive
