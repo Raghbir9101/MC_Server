@@ -890,3 +890,4 @@ java.io.IOException: Connection timed out
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [12:56:36] [Thread-7/INFO]: send keep alive
 [13:00:38] [Thread-7/INFO]: send keep alive
+[13:02:46] [Thread-0/INFO]: Stopping server
