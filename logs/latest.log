@@ -668,3 +668,5 @@
 [16:54:47] [Thread-7/INFO]: send keep alive
 [16:57:51] [Server thread/INFO]: Jhaantuke has made the advancement [Take Aim]
 [16:58:49] [Thread-7/INFO]: send keep alive
+[16:59:49] [Server thread/INFO]: Jhaantuke issued server command: /difficulty peaceful
+[16:59:49] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Peaceful]
