@@ -630,3 +630,5 @@ java.io.IOException: Connection timed out
 [22:15:35] [Thread-9/INFO]: send keep alive
 [22:19:36] [Thread-9/INFO]: send keep alive
 [22:23:39] [Thread-9/INFO]: send keep alive
+[22:24:14] [Server thread/INFO]: Almighty lost connection: Timed out
+[22:24:14] [Server thread/INFO]: Almighty left the game
