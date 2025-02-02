@@ -391,3 +391,6 @@
 [18:41:27] [Server thread/INFO]: [Almighty: Teleported Almighty to Jhaantuke]
 [18:43:19] [Thread-10/INFO]: send keep alive
 [18:47:21] [Thread-10/INFO]: send keep alive
+[18:48:33] [Server thread/INFO]: Almighty issued server command: /tp Jhaantuke
+[18:48:33] [Server thread/INFO]: [Almighty: Teleported Almighty to Jhaantuke]
+[18:48:33] [Server thread/WARN]: Almighty moved too quickly! -3.7371334504669207,29.0,-8.695185995557264
