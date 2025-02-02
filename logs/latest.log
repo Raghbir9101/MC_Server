@@ -1037,3 +1037,4 @@ java.net.SocketException: Connection reset
 [20:45:27] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
 [20:47:54] [Thread-10/INFO]: send keep alive
 [20:49:53] [Server thread/INFO]: Almighty was shot by Skeleton
+[20:51:55] [Thread-10/INFO]: send keep alive
