@@ -737,3 +737,4 @@ java.net.SocketException: Connection reset
 [19:23:35] [Thread-10/INFO]: send keep alive
 [19:24:10] [Server thread/INFO]: Almighty issued server command: /tp Jhaantuke
 [19:24:10] [Server thread/INFO]: [Almighty: Teleported Almighty to Jhaantuke]
+[19:25:58] [Server thread/INFO]: Jhaantuke has made the advancement [Diamonds!]
