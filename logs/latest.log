@@ -1039,3 +1039,4 @@ java.net.SocketException: Connection reset
 [20:49:53] [Server thread/INFO]: Almighty was shot by Skeleton
 [20:51:55] [Thread-10/INFO]: send keep alive
 [20:55:55] [Thread-10/INFO]: send keep alive
+[20:56:26] [Server thread/INFO]: Almighty fell from a high place
