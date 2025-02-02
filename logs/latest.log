@@ -546,3 +546,5 @@
 [19:05:05] [nioEventLoopGroup-2-2/INFO]: failed to get Minecraft server from Bukkit.getServer()
 [19:05:05] [nioEventLoopGroup-2-2/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [19:05:05] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[19:05:44] [Server thread/INFO]: Almighty issued server command: /tp Jhaantuke
+[19:05:44] [Server thread/INFO]: [Almighty: Teleported Almighty to Jhaantuke]
