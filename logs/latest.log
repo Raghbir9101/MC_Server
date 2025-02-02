@@ -165,3 +165,9 @@
 [18:19:10] [Thread-10/INFO]: playit.gg: listed-aqua.joinmc.link
 [18:19:11] [Thread-10/WARN]: Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
 [18:19:11] [Thread-10/INFO]: request queued, waiting 1 second before resend
+[18:19:18] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[18:19:18] [Server thread/INFO]: [Geyser-Spigot] Done (9.598s)! Run /geyser help for help!
+[18:19:18] [Server thread/INFO]: Done (14.669s)! For help, type "help"
+[18:19:18] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[18:19:18] [Server thread/WARN]: [Geyser-Spigot] You are using an outdated version of ViaVersion; please download the newest version from https://ci.viaversion.com/job/ViaVersion/
+[18:19:19] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 5.0.1
