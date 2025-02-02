@@ -1017,3 +1017,4 @@ java.net.SocketException: Connection reset
 [20:25:47] [Server thread/INFO]: Jhaantuke was slain by Enderman
 [20:26:52] [Server thread/INFO]: Almighty issued server command: /tp Jhaantuke
 [20:26:52] [Server thread/INFO]: [Almighty: Teleported Almighty to Jhaantuke]
+[20:27:50] [Thread-10/INFO]: send keep alive
