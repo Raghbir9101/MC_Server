@@ -817,3 +817,5 @@ java.net.SocketException: Connection reset
 [19:57:01] [Server thread/INFO]: Almighty issued server command: /tp Jhaantuke
 [19:57:01] [Server thread/INFO]: [Almighty: Teleported Almighty to Jhaantuke]
 [19:59:44] [Thread-10/INFO]: send keep alive
+[20:00:35] [Server thread/INFO]: Jhaantuke issued server command: /give Jhaantuke minecraft:turtle_egg
+[20:00:35] [Server thread/INFO]: [Jhaantuke: Gave 1 [Turtle Egg] to Jhaantuke]
