@@ -972,3 +972,4 @@ java.net.SocketException: Connection reset
 [20:02:18] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [20:02:18] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
 [20:03:46] [Thread-10/INFO]: send keep alive
+[20:07:46] [Thread-10/INFO]: send keep alive
