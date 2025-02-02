@@ -1003,3 +1003,6 @@ java.net.SocketException: Connection reset
 [20:12:16] [Server thread/INFO]: Almighty[/127.0.0.1:47470] logged in with entity id 24766 at ([world_nether]-17.060463039801153, -132.92098713805174, 2.990093299023729)
 [20:12:16] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty Jhaantuke
 [20:12:16] [Server thread/INFO]: [Jhaantuke: Teleported Almighty to Jhaantuke]
+[20:12:21] [Server thread/INFO]: Almighty fell from a high place
+[20:12:48] [Server thread/INFO]: Almighty issued server command: /tp Jhaantuke
+[20:12:48] [Server thread/INFO]: [Almighty: Teleported Almighty to Jhaantuke]
