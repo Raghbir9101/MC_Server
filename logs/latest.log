@@ -1006,3 +1006,4 @@ java.net.SocketException: Connection reset
 [20:12:21] [Server thread/INFO]: Almighty fell from a high place
 [20:12:48] [Server thread/INFO]: Almighty issued server command: /tp Jhaantuke
 [20:12:48] [Server thread/INFO]: [Almighty: Teleported Almighty to Jhaantuke]
+[20:15:48] [Thread-10/INFO]: send keep alive
