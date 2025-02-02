@@ -733,3 +733,4 @@ java.net.SocketException: Connection reset
 [19:19:06] [Server thread/INFO]: Almighty joined the game
 [19:19:06] [Server thread/INFO]: Almighty[/127.0.0.1:49046] logged in with entity id 8650 at ([world]26.884786121780017, 71.0, 31.8579334246005)
 [19:19:32] [Thread-10/INFO]: send keep alive
+[19:21:07] [Server thread/INFO]: Almighty was slain by Zombie
