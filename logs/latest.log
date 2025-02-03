@@ -385,3 +385,7 @@
 [19:31:42] [Thread-8/INFO]: send keep alive
 [19:35:43] [Thread-8/INFO]: send keep alive
 [19:39:44] [Thread-8/INFO]: send keep alive
+[19:43:45] [Thread-8/INFO]: send keep alive
+[19:44:22] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty
+[19:44:22] [Server thread/INFO]: [Jhaantuke: Teleported Jhaantuke to Almighty]
+[19:44:39] [Server thread/INFO]: Almighty fell out of the world
