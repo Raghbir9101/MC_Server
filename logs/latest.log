@@ -850,3 +850,5 @@
 [22:56:27] [Thread-8/INFO]: send keep alive
 [23:00:28] [Thread-8/INFO]: send keep alive
 [23:04:29] [Thread-8/INFO]: send keep alive
+[23:08:01] [Server thread/WARN]: handleDisconnection() called twice
+[23:08:29] [Thread-8/INFO]: send keep alive
