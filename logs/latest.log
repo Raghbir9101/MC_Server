@@ -389,3 +389,7 @@
 [19:44:22] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty
 [19:44:22] [Server thread/INFO]: [Jhaantuke: Teleported Jhaantuke to Almighty]
 [19:44:39] [Server thread/INFO]: Almighty fell out of the world
+[19:47:46] [Thread-8/INFO]: send keep alive
+[19:47:56] [Server thread/INFO]: Jhaantuke was shot by Skeleton
+[19:48:10] [Server thread/INFO]: Jhaantuke issued server command: /difficulty peaceful
+[19:48:10] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Peaceful]
