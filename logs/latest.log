@@ -248,3 +248,5 @@
 [17:42:05] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty
 [17:42:05] [Server thread/INFO]: [Jhaantuke: Teleported Jhaantuke to Almighty]
 [17:43:41] [Thread-8/INFO]: send keep alive
+[17:45:04] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty Jhaantuke
+[17:45:04] [Server thread/INFO]: [Jhaantuke: Teleported Almighty to Jhaantuke]
