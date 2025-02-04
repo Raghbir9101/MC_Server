@@ -259,3 +259,7 @@
 [17:55:46] [Thread-8/INFO]: send keep alive
 [17:58:41] [Server thread/INFO]: Almighty was slain by Zombie
 [17:58:46] [Server thread/INFO]: Jhaantuke was shot by Skeleton
+[17:59:07] [Server thread/INFO]: Almighty was slain by Skeleton
+[17:59:28] [Server thread/INFO]: Jhaantuke issued server command: /difficulty peaceful
+[17:59:28] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Peaceful]
+[17:59:46] [Thread-8/INFO]: send keep alive
