@@ -229,3 +229,6 @@
 [16:23:12] [Server thread/INFO]: Almighty joined the game
 [16:23:12] [Server thread/INFO]: Almighty[/127.0.0.1:57192] logged in with entity id 775 at ([world]-0.8298188849580066, 71.0, -14.752095767792563)
 [16:27:02] [Thread-10/INFO]: send keep alive
+[16:30:21] [Server thread/INFO]: Almighty issued server command: /tp Jhaantuke
+[16:30:21] [Server thread/INFO]: [Almighty: Teleported Almighty to Jhaantuke]
+[16:31:03] [Thread-10/INFO]: send keep alive
