@@ -565,3 +565,4 @@
 [18:45:06] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [18:45:06] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
 [18:48:03] [Thread-8/INFO]: send keep alive
+[18:49:57] [Server thread/INFO]: Almighty was slain by Piglin
