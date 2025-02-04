@@ -543,3 +543,6 @@
 [18:33:39] [Server thread/INFO]: Jhaantuke issued server command: /give Jhaantuke minecraft:turtle_egg
 [18:33:39] [Server thread/INFO]: [Jhaantuke: Gave 1 [Turtle Egg] to Jhaantuke]
 [18:36:01] [Thread-8/INFO]: send keep alive
+[18:36:57] [Server thread/INFO]: Jhaantuke was slain by Zombified Piglin
+[18:37:02] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty
+[18:37:02] [Server thread/INFO]: [Jhaantuke: Teleported Jhaantuke to Almighty]
