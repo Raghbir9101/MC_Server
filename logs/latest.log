@@ -645,3 +645,5 @@
 [17:00:08] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [17:00:08] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
 [17:01:50] [Server thread/INFO]: Jhaantuke was slain by Zombified Piglin
+[17:03:12] [Server thread/INFO]: Jhaantuke fell from a high place
+[17:03:13] [Thread-10/INFO]: send keep alive
