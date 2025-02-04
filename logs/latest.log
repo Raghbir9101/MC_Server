@@ -503,3 +503,4 @@
 [16:51:38] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
 [16:51:38] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
 [16:51:38] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
+[16:55:11] [Thread-10/INFO]: send keep alive
