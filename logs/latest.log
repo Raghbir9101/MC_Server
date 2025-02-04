@@ -644,3 +644,4 @@
 [17:00:08] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
 [17:00:08] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [17:00:08] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[17:01:50] [Server thread/INFO]: Jhaantuke was slain by Zombified Piglin
