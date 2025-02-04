@@ -525,3 +525,15 @@
 [18:22:39] [Server thread/INFO]: Almighty issued server command: /tp Jhaantuke
 [18:22:39] [Server thread/INFO]: [Almighty: Teleported Almighty to Jhaantuke]
 [18:23:57] [Thread-8/INFO]: send keep alive
+[18:27:57] [Server thread/INFO]: Almighty issued server command: /tp Jhaantuke
+[18:27:57] [Server thread/INFO]: [Almighty: Teleported Almighty to Jhaantuke]
+[18:27:58] [Thread-8/INFO]: send keep alive
+[18:28:14] [Server thread/INFO]: Jhaantuke was slain by Magma Cube
+[18:28:26] [Server thread/INFO]: Jhaantuke issued server command: /tp Almighty
+[18:28:26] [Server thread/INFO]: [Jhaantuke: Teleported Jhaantuke to Almighty]
+[18:28:48] [Server thread/INFO]: Almighty was slain by Magma Cube
+[18:28:53] [Server thread/INFO]: Almighty issued server command: /tp Jhaantuke
+[18:28:53] [Server thread/INFO]: [Almighty: Teleported Almighty to Jhaantuke]
+[18:29:14] [Server thread/INFO]: Jhaantuke fell from a high place
+[18:29:28] [Server thread/INFO]: Jhaantuke was slain by Zombified Piglin
+[18:29:43] [Server thread/INFO]: Jhaantuke was slain by Enderman
