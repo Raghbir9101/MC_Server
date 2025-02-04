@@ -263,3 +263,8 @@
 [17:59:28] [Server thread/INFO]: Jhaantuke issued server command: /difficulty peaceful
 [17:59:28] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Peaceful]
 [17:59:46] [Thread-8/INFO]: send keep alive
+[18:02:58] [Server thread/INFO]: Jhaantuke issued server command: /difficulty hard
+[18:02:58] [Server thread/INFO]: [Jhaantuke: The difficulty has been set to Hard]
+[18:03:19] [Server thread/INFO]: Jhaantuke issued server command: /difficulty hard
+[18:03:47] [Thread-8/INFO]: send keep alive
+[18:03:51] [Server thread/INFO]: Jhaantuke has made the advancement [The Parrots and the Bats]
