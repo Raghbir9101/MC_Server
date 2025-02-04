@@ -1698,15 +1698,15 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-02-04 17:30:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-02-04 17:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-04 17:30:04 +0000"
     },
     "done": true
   },
