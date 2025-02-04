@@ -1740,6 +1740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-04 18:00:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-04 17:42:14 +0000"
@@ -1775,6 +1781,12 @@
       "has_gravel": "2025-02-04 17:42:14 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-02-04 18:03:51 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
@@ -1821,6 +1833,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-04 17:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-04 18:03:51 +0000"
     },
     "done": true
   },
