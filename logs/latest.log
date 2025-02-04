@@ -573,3 +573,6 @@
 [18:57:39] [Server thread/INFO]: Almighty was slain by Piglin
 [18:58:31] [Server thread/INFO]: Almighty was shot by Piglin
 [19:00:07] [Thread-8/INFO]: send keep alive
+[19:02:10] [Server thread/INFO]: Almighty was slain by Zombified Piglin
+[19:02:18] [Server thread/INFO]: Villager EntityVillager['Villager'/12, l='ServerLevel[world]', x=18.40, y=69.00, z=-24.70] died, message: 'Villager hit the ground too hard'
+[19:02:45] [Server thread/INFO]: Almighty was slain by Zombified Piglin
