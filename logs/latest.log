@@ -196,3 +196,5 @@
 [22:12:20] [Thread-7/INFO]: send keep alive
 [22:16:20] [Thread-7/INFO]: send keep alive
 [22:20:21] [Thread-7/INFO]: send keep alive
+[22:24:21] [Thread-7/INFO]: send keep alive
+[22:24:57] [Server thread/INFO]: Villager EntityVillager['Villager'/41, l='ServerLevel[world]', x=37.69, y=-234.08, z=5.95] died, message: 'Villager fell out of the world'
