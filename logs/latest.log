@@ -573,3 +573,4 @@
 [20:55:52] [nioEventLoopGroup-2-1/INFO]: failed to get Minecraft server from Bukkit.getServer()
 [20:55:52] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [20:55:52] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
+[20:56:55] [Thread-6/INFO]: send keep alive
