@@ -198,3 +198,4 @@
 [22:20:21] [Thread-7/INFO]: send keep alive
 [22:24:21] [Thread-7/INFO]: send keep alive
 [22:24:57] [Server thread/INFO]: Villager EntityVillager['Villager'/41, l='ServerLevel[world]', x=37.69, y=-234.08, z=5.95] died, message: 'Villager fell out of the world'
+[22:27:32] [Server thread/INFO]: Villager EntityVillager['Villager'/43, l='ServerLevel[world]', x=39.97, y=59.00, z=8.61] died, message: 'Villager hit the ground too hard'
