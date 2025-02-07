@@ -21,7 +21,7 @@ function runGitCommands() {
             }
             console.log("Files committed successfully.");
 
-            exec("git push", (err, stdout, stderr) => {
+            exec("git push --force", (err, stdout, stderr) => {
                 if (err) {
                     console.error(`Error pushing files: ${stderr}`);
                     return;
