@@ -291,3 +291,4 @@
 [20:19:54] [nioEventLoopGroup-2-1/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [20:19:54] [nioEventLoopGroup-2-2/INFO]: connected to local minecraft server
 [20:23:04] [Thread-8/INFO]: send keep alive
+[20:27:04] [Thread-8/INFO]: send keep alive
