@@ -712,3 +712,7 @@ java.io.IOException: Connection timed out
 [19:26:59] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
 [19:26:59] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [19:26:59] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[19:28:12] [nioEventLoopGroup-2-1/WARN]: failed to send data to tunnel
+[19:28:12] [Server thread/INFO]: Almighty lost connection: Disconnected
+[19:28:12] [Server thread/INFO]: Almighty left the game
+[19:28:23] [Thread-6/INFO]: send keep alive
