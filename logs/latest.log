@@ -695,3 +695,7 @@ java.io.IOException: Connection timed out
 [19:21:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1505ms or 15057 ticks behind
 [19:21:26] [Server thread/INFO]: JhaantukeE issued server command: /tp Almighty JhaantukeE
 [19:21:26] [Server thread/INFO]: [JhaantukeE: Teleported Almighty to JhaantukeE]
+[19:22:46] [Server thread/INFO]: JhaantukeE issued server command: /tick rate 20
+[19:22:46] [Server thread/INFO]: [JhaantukeE: Set the target tick rate to 20.0 per second]
+[19:22:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 75564ms or 1511 ticks behind
+[19:24:23] [Thread-6/INFO]: send keep alive
