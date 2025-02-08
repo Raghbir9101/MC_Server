@@ -1011,3 +1011,4 @@ java.io.IOException: Connection timed out
 [21:38:19] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
 [21:38:19] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [21:38:19] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[21:40:40] [Thread-6/INFO]: send keep alive
