@@ -553,7 +553,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:magma_cube": "2025-02-08 19:20:35 +0000"
+      "minecraft:enderman": "2025-02-08 19:24:48 +0000",
+      "minecraft:magma_cube": "2025-02-08 19:20:35 +0000",
+      "minecraft:zombie": "2025-02-08 19:26:40 +0000"
     },
     "done": false
   },
