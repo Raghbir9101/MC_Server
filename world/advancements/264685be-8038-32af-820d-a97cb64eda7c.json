@@ -1944,5 +1944,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-08 18:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-08 18:18:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
