@@ -373,3 +373,4 @@
 [21:04:45] [Server thread/INFO]: Almighty issued server command: /tick rate 20
 [21:04:45] [Server thread/INFO]: [Almighty: Set the target tick rate to 20.0 per second]
 [21:04:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 670454ms or 13409 ticks behind
+[21:08:17] [Thread-7/INFO]: send keep alive
