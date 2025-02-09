@@ -364,3 +364,6 @@
 [20:44:15] [Thread-7/INFO]: send keep alive
 [20:48:15] [Thread-7/INFO]: send keep alive
 [20:52:16] [Thread-7/INFO]: send keep alive
+[20:53:19] [Server thread/INFO]: Almighty issued server command: /tick rate 10000
+[20:53:19] [Server thread/INFO]: [Almighty: Set the target tick rate to 10000.0 per second]
+[20:53:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1507ms or 15076 ticks behind
