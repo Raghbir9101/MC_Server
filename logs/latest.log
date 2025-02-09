@@ -308,3 +308,4 @@ java.net.SocketException: Connection reset
 [16:32:14] [nioEventLoopGroup-2-3/INFO]: failed to get Minecraft server from Bukkit.getServer()
 [16:32:14] [nioEventLoopGroup-2-3/INFO]: connecting to minecraft server at localhost/127.0.0.1:25565
 [16:32:14] [nioEventLoopGroup-2-4/INFO]: connected to local minecraft server
+[16:33:05] [Thread-8/INFO]: send keep alive
