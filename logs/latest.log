@@ -319,3 +319,4 @@ java.net.SocketException: Connection reset
 [17:05:08] [Thread-8/INFO]: send keep alive
 [17:09:09] [Thread-8/INFO]: send keep alive
 [17:13:09] [Thread-8/INFO]: send keep alive
+[17:16:01] [Thread-0/INFO]: Stopping server
