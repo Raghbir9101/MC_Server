@@ -238,3 +238,6 @@
 [19:51:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1506ms or 15060 ticks behind
 [19:51:56] [Server thread/INFO]: JhaantukeE has made the advancement [Sweet Dreams]
 [19:52:56] [Thread-8/INFO]: send keep alive
+[19:55:55] [Server thread/INFO]: JhaantukeE issued server command: /tick rate 20
+[19:55:55] [Server thread/INFO]: [JhaantukeE: Set the target tick rate to 20.0 per second]
+[19:55:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 254303ms or 5086 ticks behind
