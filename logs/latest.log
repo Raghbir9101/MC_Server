@@ -255,3 +255,5 @@
 [20:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1517ms or 15172 ticks behind
 [20:04:57] [Thread-8/INFO]: send keep alive
 [20:06:50] [Server thread/INFO]: JhaantukeE was slain by Iron Golem
+[20:08:05] [Server thread/INFO]: JhaantukeE issued server command: /tp Almighty
+[20:08:05] [Server thread/INFO]: [JhaantukeE: Teleported JhaantukeE to Almighty]
