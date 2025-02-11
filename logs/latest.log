@@ -292,3 +292,4 @@ java.net.SocketException: Connection reset
 [20:12:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 622432ms or 12448 ticks behind
 [20:12:59] [Thread-8/INFO]: send keep alive
 [20:16:59] [Thread-8/INFO]: send keep alive
+[20:18:34] [Server thread/INFO]: Almighty was slain by Iron Golem
